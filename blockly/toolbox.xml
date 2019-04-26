@@ -42,26 +42,6 @@
 		  <field name="TEXT"></field>
 		</block>
 	  </value>
-	  <value name="notify_sendstkpkg">
-		<block type="math_number">
-		  <field name="NUM">1</field>
-		</block>
-	  </value>
-	  <value name="notify_sendstkid">
-		<block type="math_number">
-		  <field name="NUM">2</field>
-		</block>
-	  </value>
-	  <value name="notify_sendimg_s">
-		<block type="text">
-		  <field name="TEXT"></field>
-		</block>
-	  </value>
-	  <value name="notify_sendimg">
-		<block type="text">
-		  <field name="TEXT"></field>
-		</block>
-	  </value>
 	</block>
 	
 
